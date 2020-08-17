@@ -11,4 +11,4 @@ The resources planed to be included in this repository are:
 
 4 Assignments and/ or projects given in the course
 
-```If you have any resources to this respository please create a pull request, it will be verified and added by us.```
+```If you have any resources for this respository please create a pull request, it will be verified and added by us.```
